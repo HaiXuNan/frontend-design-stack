@@ -1,0 +1,1757 @@
+[
+ {
+  "name": "Fontshare",
+  "category": "Type & Colour",
+  "slug": "fontshare",
+  "tagline": "High-quality professional fonts free for commercial use.",
+  "description": "Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.",
+  "url": "https://fontshare.com/",
+  "source": "https://designeer.xyz/resources/fontshare"
+ },
+ {
+  "name": "ForgeUI",
+  "category": "Components",
+  "slug": "forgeui",
+  "tagline": "Animated React and Tailwind components and templates.",
+  "description": "ForgeUI is a React and Tailwind UI library: animated components, marketing blocks, illustrations, and copy-paste templates. shadcn-compatible, free and Pro.",
+  "url": "https://forgeui.in/",
+  "source": "https://designeer.xyz/resources/forgeui"
+ },
+ {
+  "name": "Klim",
+  "category": "Type & Colour",
+  "slug": "klim",
+  "tagline": "Type foundry creating contemporary web typefaces.",
+  "description": "Klim Type Foundry is an independent typeface design studio led by Kris Sowersby and is based in Wellington, New Zealand. We sell a wide range of fonts online and undertake custom typographic work for international clients.",
+  "url": "https://klim.co.nz/",
+  "source": "https://designeer.xyz/resources/klim"
+ },
+ {
+  "name": "Fontsource",
+  "category": "Type & Colour",
+  "slug": "fontsource",
+  "tagline": "Self-host open-source fonts via npm packages.",
+  "description": "Browse free, open-source and variable fonts. Preview and download font files, or self-host web fonts with npm packages and CSS. CDN links are also available.",
+  "url": "https://fontsource.org/",
+  "source": "https://designeer.xyz/resources/fontsource"
+ },
+ {
+  "name": "shadcn/ui",
+  "category": "Components",
+  "slug": "shadcn-ui",
+  "tagline": "Components you copy directly into codebases.",
+  "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+  "url": "https://ui.shadcn.com/",
+  "source": "https://designeer.xyz/resources/shadcn-ui"
+ },
+ {
+  "name": "Wakamai Fondue",
+  "category": "Type & Colour",
+  "slug": "wakamai-fondue",
+  "tagline": "Tool inspecting font files and features.",
+  "description": "The tool that answers the question “what can my font do?”",
+  "url": "https://wakamaifondue.com/",
+  "source": "https://designeer.xyz/resources/wakamai-fondue"
+ },
+ {
+  "name": "Base UI",
+  "category": "Components",
+  "slug": "base-ui",
+  "tagline": "Unstyled component primitives from Radix and MUI.",
+  "description": "Unstyled UI components for building accessible web apps and design systems.",
+  "url": "https://base-ui.com/",
+  "source": "https://designeer.xyz/resources/base-ui"
+ },
+ {
+  "name": "Utopia",
+  "category": "Type & Colour",
+  "slug": "utopia",
+  "tagline": "Fluid typography calculator generating CSS clamp.",
+  "description": "Utopia is not a product, a plugin, or a framework. It’s a memorable/pretentious word we use to refer to a way of thinking about fluid responsive design. There’s no program or dependency to install, although we are developing some free tools to support your next Utopian project:",
+  "url": "https://utopia.fyi/",
+  "source": "https://designeer.xyz/resources/utopia"
+ },
+ {
+  "name": "Radix",
+  "category": "Components",
+  "slug": "radix",
+  "tagline": "Accessible unstyled UI primitives for React.",
+  "description": "Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.",
+  "url": "https://www.radix-ui.com/",
+  "source": "https://designeer.xyz/resources/radix"
+ },
+ {
+  "name": "Velvetyne",
+  "category": "Type & Colour",
+  "slug": "velvetyne",
+  "tagline": "Open-source foundry distributing experimental typefaces.",
+  "description": "A type foundry that designs, publishes, and distributes libre and open-source typefaces for personal and commercial use.",
+  "url": "https://velvetyne.fr/",
+  "source": "https://designeer.xyz/resources/velvetyne"
+ },
+ {
+  "name": "21st.dev",
+  "category": "Components",
+  "slug": "21st-dev",
+  "tagline": "Community shadcn registry with interactive previews.",
+  "description": "12,000+ hand-crafted React and Tailwind CSS components, templates, and shadcn themes by real design engineers. Preview live, install with one command — for you and your AI agent.",
+  "url": "https://21st.dev/",
+  "source": "https://designeer.xyz/resources/21st-dev"
+ },
+ {
+  "name": "Departure Mono",
+  "category": "Type & Colour",
+  "slug": "departure-mono",
+  "tagline": "Pixel monospace typeface designed for terminals.",
+  "description": "Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.",
+  "url": "https://departuremono.com/",
+  "source": "https://designeer.xyz/resources/departure-mono"
+ },
+ {
+  "name": "Motion Primitives",
+  "category": "Components",
+  "slug": "motion-primitives",
+  "tagline": "Animated React components powered by Motion.",
+  "description": "Motion-Primitives is an open-source UI kit to make beautiful, animated interfaces, faster. Built for React, Next.js, and Tailwind CSS.",
+  "url": "https://motion-primitives.com/",
+  "source": "https://designeer.xyz/resources/motion-primitives"
+ },
+ {
+  "name": "OKLCH",
+  "category": "Type & Colour",
+  "slug": "oklch",
+  "tagline": "Color picker using perceptually uniform space.",
+  "description": "OKLCH is a new way to encode colors (like hex, RGBA, or HSL)",
+  "url": "https://oklch.com/",
+  "source": "https://designeer.xyz/resources/oklch"
+ },
+ {
+  "name": "React Bits",
+  "category": "Components",
+  "slug": "react-bits",
+  "tagline": "Animated and creative components for React.",
+  "description": "An open source collection of 200+ high quality, animated, interactive & fully customizable React components and micro interactions for building stunning, memorable user interfaces.",
+  "url": "https://reactbits.dev/",
+  "source": "https://designeer.xyz/resources/react-bits"
+ },
+ {
+  "name": "Color.review",
+  "category": "Type & Colour",
+  "slug": "color-review",
+  "tagline": "Contrast checker helping design accessible palettes.",
+  "description": "A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.",
+  "url": "https://color.review/",
+  "source": "https://designeer.xyz/resources/color-review"
+ },
+ {
+  "name": "Component Gallery",
+  "category": "Components",
+  "slug": "component-gallery",
+  "tagline": "Repository comparing design system components.",
+  "description": "An up-to-date repository of interface components based on examples from the world of design systems, designed to be a reference for anyone building user interfaces.",
+  "url": "https://component.gallery/",
+  "source": "https://designeer.xyz/resources/component-gallery"
+ },
+ {
+  "name": "NumberFlow",
+  "category": "Components",
+  "slug": "numberflow",
+  "tagline": "Smooth number transitions across modern frameworks.",
+  "description": "A React component to animate numbers. Dependency-free. Accessible. Customizable.",
+  "url": "https://number-flow.barvian.me/",
+  "source": "https://designeer.xyz/resources/numberflow"
+ },
+ {
+  "name": "Huetone",
+  "category": "Type & Colour",
+  "slug": "huetone",
+  "tagline": "Accessible palette generator balancing contrast ratios.",
+  "description": "Use LCH color space to come up with predictable and accessible color palettes",
+  "url": "https://huetone.ardov.me/",
+  "source": "https://designeer.xyz/resources/huetone"
+ },
+ {
+  "name": "Fancy Components",
+  "category": "Components",
+  "slug": "fancy-components",
+  "tagline": "Playful React components with physics effects.",
+  "description": "Ready to use, fancy React components to make the web fun again. Free & Open Source.",
+  "url": "https://www.fancycomponents.dev/",
+  "source": "https://designeer.xyz/resources/fancy-components"
+ },
+ {
+  "name": "APCA",
+  "category": "Type & Colour",
+  "slug": "apca",
+  "tagline": "Modern contrast algorithm matching visual perception.",
+  "description": "The Accessible Perceptual Contrast Algorithm predicts perceived contrast between text or graphics and their display background.",
+  "url": "https://apcaw3.myndex.com/",
+  "source": "https://designeer.xyz/resources/apca"
+ },
+ {
+  "name": "Opensource UI",
+  "category": "Components",
+  "slug": "opensource-ui",
+  "tagline": "Copy-paste React UI and device mockups.",
+  "description": "Opensource UI is a free UI library for React and Next.js — 200+ MIT-licensed copy-paste components, Tailwind CSS blocks, iPhone and MacBook mockups, and TypeScript source. Browse live previews at opensourceui.in.",
+  "url": "https://opensourceui.in/",
+  "source": "https://designeer.xyz/resources/opensource-ui"
+ },
+ {
+  "name": "Ramps",
+  "category": "Type & Colour",
+  "slug": "ramps",
+  "tagline": "Design token tool generating OKLCH ramps.",
+  "description": "The color ramp generator built for handing off: every palette is readable by an agent as plain text or JSON, with no JavaScript. Perceptually-even OKLCH ramps, derived accents, a matched neutral, status colors, and usage-first semantic tokens for light and dark, with WCAG AA or AAA enforced rather than merely reported. Export to CSS, Tailwind v4, Figma variables, or JSON.",
+  "url": "https://www.ramps.studio/",
+  "source": "https://designeer.xyz/resources/ramps"
+ },
+ {
+  "name": "Atmos",
+  "category": "Type & Colour",
+  "slug": "atmos",
+  "tagline": "A color palette generator built for UI designers",
+  "description": "A color palette generator built for UI designers. Find colors, generate uniform shades and color scales, and create your palette in minutes.",
+  "url": "https://atmos.style/",
+  "source": "https://designeer.xyz/resources/atmos"
+ },
+ {
+  "name": "Spectrum UI",
+  "category": "Components",
+  "slug": "spectrum-ui",
+  "tagline": "Polished components designed for SaaS websites.",
+  "description": "Open-source, animation-ready React components and blocks built with Next.js, Tailwind CSS, Motion, TypeScript, and shadcn/ui for SaaS and AI apps.",
+  "url": "https://ui.spectrumhq.in/",
+  "source": "https://designeer.xyz/resources/spectrum-ui"
+ },
+ {
+  "name": "Amicro",
+  "category": "Components",
+  "slug": "amicro",
+  "tagline": "Lightweight drop-in React micro-animation primitives.",
+  "description": "160+ copy-paste React components for motion, transitions & UI effects. Open-source UI library built with Framer Motion and Tailwind CSS.",
+  "url": "https://amicro.vercel.app/",
+  "source": "https://designeer.xyz/resources/amicro"
+ },
+ {
+  "name": "Three.js",
+  "category": "Motion & 3D",
+  "slug": "three-js",
+  "tagline": "JavaScript 3D library rendering WebGL scenes.",
+  "description": "A JavaScript 3D library with an editor, examples, and tools for creating WebGL experiences in the browser.",
+  "url": "https://threejs.org/",
+  "source": "https://designeer.xyz/resources/three-js"
+ },
+ {
+  "name": "Painterly",
+  "category": "Components",
+  "slug": "painterly",
+  "tagline": "Artistic canvas loader components for React.",
+  "description": "A collection of animated, painterly loading screens with reusable code for adding the effects to web projects.",
+  "url": "https://painterly.design-tools.workers.dev/",
+  "source": "https://designeer.xyz/resources/painterly"
+ },
+ {
+  "name": "React Three Fiber",
+  "category": "Motion & 3D",
+  "slug": "react-three-fiber",
+  "tagline": "Declarative React renderer for Three.js scenes.",
+  "description": "A React renderer for three.js. Build 3D scenes declaratively from reusable components that react to state, with no overhead over plain three.js.",
+  "url": "https://r3f.docs.pmnd.rs/",
+  "source": "https://designeer.xyz/resources/react-three-fiber"
+ },
+ {
+  "name": "Drei",
+  "category": "Motion & 3D",
+  "slug": "drei",
+  "tagline": "Helper components for React Three Fiber.",
+  "description": "A growing collection of helpers and ready-made abstractions for React Three Fiber: cameras, controls, gizmos, loaders, shaders, staging and more.",
+  "url": "https://drei.docs.pmnd.rs/",
+  "source": "https://designeer.xyz/resources/drei"
+ },
+ {
+  "name": "Bencho",
+  "category": "Components",
+  "slug": "bencho",
+  "tagline": "Interactive UI blocks with adjustable physics.",
+  "description": "A library of interactive UI blocks you can explore, tweak, and take straight into your projects. Everything is live, not mocked.",
+  "url": "https://bencho.dev/",
+  "source": "https://designeer.xyz/resources/bencho"
+ },
+ {
+  "name": "shadcnblocks",
+  "category": "Components",
+  "slug": "shadcnblocks",
+  "tagline": "Thousands of clean shadcn website blocks.",
+  "description": "Discover hundreds of extra shadcn/ui blocks and Shadcn UI components. Shadcnblocks is a premium component library built with Shadcn UI, React & Tailwind.",
+  "url": "https://www.shadcnblocks.com/",
+  "source": "https://designeer.xyz/resources/shadcnblocks"
+ },
+ {
+  "name": "Blender",
+  "category": "Motion & 3D",
+  "slug": "blender",
+  "tagline": "Open-source 3D modeling and animation suite.",
+  "description": "Blender is a public project hosted on blender.org, licensed as GNU GPL, owned by its contributors.",
+  "url": "https://blender.org/",
+  "source": "https://designeer.xyz/resources/blender"
+ },
+ {
+  "name": "blocks.so",
+  "category": "Components",
+  "slug": "blocks-so",
+  "tagline": "Open-source website blocks installable via CLI.",
+  "description": "Free shadcn/ui blocks and components built with React, Tailwind CSS, and Next.js. Copy and paste 60+ beautifully designed, accessible UI blocks into your projects. Open source forever.",
+  "url": "https://blocks.so/",
+  "source": "https://designeer.xyz/resources/blocks-so"
+ },
+ {
+  "name": "gltf.report",
+  "category": "Motion & 3D",
+  "slug": "gltf-report",
+  "tagline": "Web-based optimizer for 3D glTF files.",
+  "description": "Viewer, analysis tool, script editor, and validator for 3D models in glTF 2.0 format.",
+  "url": "https://gltf.report/",
+  "source": "https://designeer.xyz/resources/gltf-report"
+ },
+ {
+  "name": "8bitcn",
+  "category": "Components",
+  "slug": "8bitcn",
+  "tagline": "Retro 8-bit components for shadcn projects.",
+  "description": "A retro UI library of 8-bit styled shadcn/ui components, blocks, and game-ready interfaces for modern React apps.",
+  "url": "https://8bitcn.com/",
+  "source": "https://designeer.xyz/resources/8bitcn"
+ },
+ {
+  "name": "Poly Haven",
+  "category": "Motion & 3D",
+  "slug": "poly-haven",
+  "tagline": "Public asset library offering CC0 textures.",
+  "description": "Poly Haven is a public 3D asset library offering free, CC0-licensed HDRIs, PBR textures and 3D models. Funded by donations and sponsorship rather than by selling the assets.",
+  "url": "https://polyhaven.com/",
+  "source": "https://designeer.xyz/resources/poly-haven"
+ },
+ {
+  "name": "Book of Shaders",
+  "category": "Motion & 3D",
+  "slug": "book-of-shaders",
+  "tagline": "Interactive guide to mastering fragment shaders.",
+  "description": "Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.",
+  "url": "https://thebookofshaders.com/",
+  "source": "https://designeer.xyz/resources/book-of-shaders"
+ },
+ {
+  "name": "Evil Charts",
+  "category": "Components",
+  "slug": "evil-charts",
+  "tagline": "Animated SVG charts designed for shadcn/ui.",
+  "description": "Free, open-source animated React chart components built with Recharts, Apache ECharts, shadcn/ui, and Tailwind CSS. Copy, paste, and ship beautiful charts.",
+  "url": "https://evilcharts.com/",
+  "source": "https://designeer.xyz/resources/evil-charts"
+ },
+ {
+  "name": "compute.toys",
+  "category": "Motion & 3D",
+  "slug": "compute-toys",
+  "tagline": "Sandbox for authoring WGSL compute shaders.",
+  "description": "A browser playground for WebGPU compute shaders written in WGSL, with inputs, textures, and preprocessing helpers.",
+  "url": "https://compute.toys/",
+  "source": "https://designeer.xyz/resources/compute-toys"
+ },
+ {
+  "name": "coss ui",
+  "category": "Components",
+  "slug": "coss-ui",
+  "tagline": "Copy-paste components built on Base UI.",
+  "description": "A modern collection of accessible, composable React components built on Base UI and styled with Tailwind CSS.",
+  "url": "https://coss.com/ui",
+  "source": "https://designeer.xyz/resources/coss-ui"
+ },
+ {
+  "name": "Rare UI",
+  "category": "Components",
+  "slug": "rare-ui",
+  "tagline": "Unique animated UI components for React.",
+  "description": "Rare UI (RareUI) is a free, open-source registry of rare animated React components. Built with Tailwind CSS, Motion and the shadcn CLI — copy, paste, and own the code.",
+  "url": "https://rareui.com/",
+  "source": "https://designeer.xyz/resources/rare-ui"
+ },
+ {
+  "name": "Shaderfrog",
+  "category": "Motion & 3D",
+  "slug": "shaderfrog",
+  "tagline": "Visual node-based editor for composing shaders.",
+  "description": "A visual shader editor for creating, combining, and previewing WebGL shaders in the browser.",
+  "url": "https://shaderfrog.com/",
+  "source": "https://designeer.xyz/resources/shaderfrog"
+ },
+ {
+  "name": "shadercn",
+  "category": "Motion & 3D",
+  "slug": "shadercn",
+  "tagline": "Shader components for React, built on vgpu and TypeGPU.",
+  "description": "A collection of beautifully designed, accessible, and customizable shader components for React. Built on vgpu and TypeGPU. Works with shadcn/ui.",
+  "url": "https://shadercn.run/",
+  "source": "https://designeer.xyz/resources/shadercn"
+ },
+ {
+  "name": "beUI",
+  "category": "Components",
+  "slug": "beui",
+  "tagline": "Animated React components with Tailwind CSS.",
+  "description": "Free, open-source animated components for React and Next.js, built with Motion and Tailwind CSS. Copy the source or install with the shadcn CLI.",
+  "url": "https://beui.dev/",
+  "source": "https://designeer.xyz/resources/beui"
+ },
+ {
+  "name": "Paper Shaders",
+  "category": "Motion & 3D",
+  "slug": "paper-shaders",
+  "tagline": "Zero-dependency shaders ready to import.",
+  "description": "Shaders for you to use in your projects, as React components or GLSL.",
+  "url": "https://shaders.paper.design/",
+  "source": "https://designeer.xyz/resources/paper-shaders"
+ },
+ {
+  "name": "OpenShaders",
+  "category": "Motion & 3D",
+  "slug": "openshaders",
+  "tagline": "Open-source shader collection for web projects.",
+  "description": "Claim your OpenShaders username before launch and get a one-of-one shader generated for it.",
+  "url": "https://openshaders.com/",
+  "source": "https://designeer.xyz/resources/openshaders"
+ },
+ {
+  "name": "Cult UI",
+  "category": "Components",
+  "slug": "cult-ui",
+  "tagline": "Animated React components with Framer Motion.",
+  "description": "Open-source Shadcn UI components, animated blocks, and full templates you can copy-paste into any TypeScript/Next.js project.",
+  "url": "https://www.cult-ui.com/",
+  "source": "https://designeer.xyz/resources/cult-ui"
+ },
+ {
+  "name": "Orbkit",
+  "category": "Motion & 3D",
+  "slug": "orbkit",
+  "tagline": "WebGL shader renderer for orb animations.",
+  "description": "Orbkit is a React component library of WebGL shader orbs for AI and voice agent states, installed as local code through the shadcn registry. Free for non-commercial use with attribution; the runtime and original orbs are MIT.",
+  "url": "https://orbkit.zzzzshawn.cloud/",
+  "source": "https://designeer.xyz/resources/orbkit"
+ },
+ {
+  "name": "daisyUI",
+  "category": "Components",
+  "slug": "daisyui",
+  "tagline": "Component class library for Tailwind CSS.",
+  "description": "Tailwind CSS component library by daisyUI. Build faster with semantic components, built-in themes, and reusable UI blocks.",
+  "url": "https://daisyui.com/",
+  "source": "https://designeer.xyz/resources/daisyui"
+ },
+ {
+  "name": "Lucide",
+  "category": "Icons",
+  "slug": "lucide",
+  "tagline": "Community-maintained Feather Icons fork with thousands of glyphs.",
+  "description": "Beautiful & consistent icon toolkit made by the community.",
+  "url": "https://lucide.dev/",
+  "source": "https://designeer.xyz/resources/lucide"
+ },
+ {
+  "name": "HeroUI",
+  "category": "Components",
+  "slug": "heroui",
+  "tagline": "Modern React UI library, formerly NextUI.",
+  "description": "Beautiful, accessible React UI components built on React Aria and Tailwind CSS v4. The modern alternative to MUI, Chakra UI, and shadcn/ui for building production-ready applications.",
+  "url": "https://www.heroui.com/",
+  "source": "https://designeer.xyz/resources/heroui"
+ },
+ {
+  "name": "Kibo UI",
+  "category": "Components",
+  "slug": "kibo-ui",
+  "tagline": "Component registry tailored for AI interfaces.",
+  "description": "Kibo UI is a custom registry of composable, accessible and open source components designed for use with shadcn/ui.",
+  "url": "https://www.kibo-ui.com/",
+  "source": "https://designeer.xyz/resources/kibo-ui"
+ },
+ {
+  "name": "Phosphor",
+  "category": "Icons",
+  "slug": "phosphor",
+  "tagline": "Icon family providing six consistent weights.",
+  "description": "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+  "url": "https://phosphoricons.com/",
+  "source": "https://designeer.xyz/resources/phosphor"
+ },
+ {
+  "name": "Magic UI",
+  "category": "Components",
+  "slug": "magic-ui",
+  "tagline": "Animated components crafted for landing pages.",
+  "description": "150+ free, open-source animated components and effects built with React, TypeScript, Tailwind CSS and Motion, made to pair with shadcn/ui. Paid Pro blocks and templates for landing pages.",
+  "url": "https://magicui.design/",
+  "source": "https://designeer.xyz/resources/magic-ui"
+ },
+ {
+  "name": "Iconify",
+  "category": "Icons",
+  "slug": "iconify",
+  "tagline": "Unified framework providing instant icon access.",
+  "description": "All popular icon sets, one framework",
+  "url": "https://iconify.design/",
+  "source": "https://designeer.xyz/resources/iconify"
+ },
+ {
+  "name": "Rune Icons",
+  "category": "Icons",
+  "slug": "rune-icons",
+  "tagline": "Minimalist icon set offering five styles.",
+  "description": "An open-source icon library where every glyph comes in five styles: outline, duotone, fill, pixelated and glass. Reshape any path in the browser, then copy it out as SVG or JSX. Apache 2.0 licensed.",
+  "url": "https://www.runeicons.com/",
+  "source": "https://designeer.xyz/resources/rune-icons"
+ },
+ {
+  "name": "Aceternity UI",
+  "category": "Components",
+  "slug": "aceternity-ui",
+  "tagline": "Trendy animated components and hero sections.",
+  "description": "Aceternity UI is a React component library with 200+ copy-paste components, blocks, and landing page templates built with Tailwind CSS and Motion.",
+  "url": "https://ui.aceternity.com/",
+  "source": "https://designeer.xyz/resources/aceternity-ui"
+ },
+ {
+  "name": "Icon Museum",
+  "category": "Icons",
+  "slug": "icon-museum",
+  "tagline": "Archive celebrating mobile app icon craftsmanship.",
+  "description": "A curated collection of the finest app icons. Browse, discover, and explore beautifully crafted iOS and macOS app icons by top designers.",
+  "url": "https://icon.museum/",
+  "source": "https://designeer.xyz/resources/icon-museum"
+ },
+ {
+  "name": "Animate UI",
+  "category": "Components",
+  "slug": "animate-ui",
+  "tagline": "Accessible shadcn components animated with Motion.",
+  "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+  "url": "https://animate-ui.com/",
+  "source": "https://designeer.xyz/resources/animate-ui"
+ },
+ {
+  "name": "FlyonUI",
+  "category": "Components",
+  "slug": "flyonui",
+  "tagline": "Semantic Tailwind CSS components ready for v4.",
+  "description": "FlyonUI is the easiest, free and open-source Tailwind CSS UI components library with semantic classes.",
+  "url": "https://flyonui.com/",
+  "source": "https://designeer.xyz/resources/flyonui"
+ },
+ {
+  "name": "Tabler Icons",
+  "category": "Icons",
+  "slug": "tabler-icons",
+  "tagline": "Library of thousands of outline icons.",
+  "description": "Tabler Icons: 6238 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!",
+  "url": "https://tabler.io/icons",
+  "source": "https://designeer.xyz/resources/tabler-icons"
+ },
+ {
+  "name": "TailGrids",
+  "category": "Components",
+  "slug": "tailgrids",
+  "tagline": "Responsive UI blocks designed for Tailwind.",
+  "description": "Tailgrids UI is an open-source React component library built with Tailwind CSS. Build production-ready apps faster with reusable components, UI blocks, templates, CLI tooling, theming, and a Figma design system.",
+  "url": "https://tailgrids.com/",
+  "source": "https://designeer.xyz/resources/tailgrids"
+ },
+ {
+  "name": "Heroicons",
+  "category": "Icons",
+  "slug": "heroicons",
+  "tagline": "Handcrafted SVG icons from Tailwind creators.",
+  "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+  "url": "https://heroicons.com/",
+  "source": "https://designeer.xyz/resources/heroicons"
+ },
+ {
+  "name": "Flowbite",
+  "category": "Components",
+  "slug": "flowbite",
+  "tagline": "Extensive component library for Tailwind CSS.",
+  "description": "Get started with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.",
+  "url": "https://flowbite.com/",
+  "source": "https://designeer.xyz/resources/flowbite"
+ },
+ {
+  "name": "Material Symbols",
+  "category": "Icons",
+  "slug": "material-symbols",
+  "tagline": "Google variable icon font spanning three styles.",
+  "description": "Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants.",
+  "url": "https://fonts.google.com/icons",
+  "source": "https://designeer.xyz/resources/material-symbols"
+ },
+ {
+  "name": "Bootstrap Icons",
+  "category": "Icons",
+  "slug": "bootstrap-icons",
+  "tagline": "Official icon library designed for Bootstrap.",
+  "description": "Official open source SVG icon library for Bootstrap",
+  "url": "https://icons.getbootstrap.com/",
+  "source": "https://designeer.xyz/resources/bootstrap-icons"
+ },
+ {
+  "name": "HyperUI",
+  "category": "Components",
+  "slug": "hyperui",
+  "tagline": "Free open-source Tailwind CSS UI components.",
+  "description": "Free, open-source Tailwind CSS components for modern web development. Copy-paste ready components to build beautiful, responsive websites faster.",
+  "url": "https://www.hyperui.dev/",
+  "source": "https://designeer.xyz/resources/hyperui"
+ },
+ {
+  "name": "Preline UI",
+  "category": "Components",
+  "slug": "preline-ui",
+  "tagline": "Tailwind CSS components for complex dashboards.",
+  "description": "Build faster with Preline UI, a free and open-source Tailwind CSS UI component library with Pro blocks, templates, plugins, framework guides, and Figma.",
+  "url": "https://preline.co/",
+  "source": "https://designeer.xyz/resources/preline-ui"
+ },
+ {
+  "name": "Remix Icon",
+  "category": "Icons",
+  "slug": "remix-icon",
+  "tagline": "Neutral icon library in outline and fill.",
+  "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
+  "url": "https://remixicon.com/",
+  "source": "https://designeer.xyz/resources/remix-icon"
+ },
+ {
+  "name": "Float UI",
+  "category": "Components",
+  "slug": "float-ui",
+  "tagline": "Tailwind components crafted for marketing websites.",
+  "description": "Beautiful and responsive website templates and UI components for React, Vue, Svelte, HTML with Tailwind CSS.",
+  "url": "https://floatui.com/",
+  "source": "https://designeer.xyz/resources/float-ui"
+ },
+ {
+  "name": "Iconoir",
+  "category": "Icons",
+  "slug": "iconoir",
+  "tagline": "Open-source SVG icons with consistent strokes.",
+  "description": "Iconoir is the biggest open source icon library that provides a massive selection of high-quality icons, available for free download. No premium options or email sign-up required, free for real. Icons available in SVG, Font, React, React Nativ, and Flutter libraries, Figma and Framer.",
+  "url": "https://iconoir.com/",
+  "source": "https://designeer.xyz/resources/iconoir"
+ },
+ {
+  "name": "Ionicons",
+  "category": "Icons",
+  "slug": "ionicons",
+  "tagline": "Premium icon pack for web and mobile.",
+  "description": "Ionicons is an open-sourced, and MIT-licensed icon pack. Download our premium designed icons for use in web, iOS, Android, and desktop apps.",
+  "url": "https://ionic.io/ionicons/",
+  "source": "https://designeer.xyz/resources/ionicons"
+ },
+ {
+  "name": "Meraki UI",
+  "category": "Components",
+  "slug": "meraki-ui",
+  "tagline": "Tailwind components with right-to-left language support.",
+  "description": "Free Tailwind CSS Components That Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid with elegant Dark Mode.",
+  "url": "https://merakiui.com/",
+  "source": "https://designeer.xyz/resources/meraki-ui"
+ },
+ {
+  "name": "Tremor",
+  "category": "Components",
+  "slug": "tremor",
+  "tagline": "Modular React library for building dashboards.",
+  "description": "Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.",
+  "url": "https://tremor.so/",
+  "source": "https://designeer.xyz/resources/tremor"
+ },
+ {
+  "name": "Simple Icons",
+  "category": "Icons",
+  "slug": "simple-icons",
+  "tagline": "Over three thousand SVG brand logos.",
+  "description": "A searchable collection of thousands of SVG icons for popular brands, with colors and brand guidelines.",
+  "url": "https://simpleicons.org/",
+  "source": "https://designeer.xyz/resources/simple-icons"
+ },
+ {
+  "name": "theSVG",
+  "category": "Icons",
+  "slug": "thesvg",
+  "tagline": "Curated collection of clean brand SVGs.",
+  "description": "Search, copy, and ship 7,427+ brand SVG icons. Open-source library with npm, React, Vue, Svelte, CLI, CDN, and MCP server support.",
+  "url": "https://thesvg.org/",
+  "source": "https://designeer.xyz/resources/thesvg"
+ },
+ {
+  "name": "Headless UI",
+  "category": "Components",
+  "slug": "headless-ui",
+  "tagline": "Unstyled accessible components from Tailwind Labs.",
+  "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+  "url": "https://headlessui.com/",
+  "source": "https://designeer.xyz/resources/headless-ui"
+ },
+ {
+  "name": "Feather",
+  "category": "Icons",
+  "slug": "feather",
+  "tagline": "Minimalist open-source icon set on 24px grid.",
+  "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
+  "url": "https://feathericons.com/",
+  "source": "https://designeer.xyz/resources/feather"
+ },
+ {
+  "name": "Base CN",
+  "category": "Components",
+  "slug": "base-cn",
+  "tagline": "Base UI primitives adapted for shadcn.",
+  "description": "Beautifully crafted shadcn/ui components powered by Base UI, providing a solid foundation to build modern and elegant interfaces with speed.",
+  "url": "https://basecn.dev/",
+  "source": "https://designeer.xyz/resources/base-cn"
+ },
+ {
+  "name": "Easy UI",
+  "category": "Components",
+  "slug": "easy-ui",
+  "tagline": "Copy-paste component library for rapid building.",
+  "description": "Beautifully designed website templates built with React and Tailwind CSS. Discover our extensive collection of React components and Tailwind CSS templates for rapid, beautiful web development.",
+  "url": "https://easyui.pro/",
+  "source": "https://designeer.xyz/resources/easy-ui"
+ },
+ {
+  "name": "Carbon Icons",
+  "category": "Icons",
+  "slug": "carbon-icons",
+  "tagline": "IBM official icon library for enterprise design.",
+  "description": "Carbon is IBM’s open source design system for products and digital experiences. With the IBM Design Language as its foundation, the system consists of working code, design tools and resources, human interface guidelines, and a vibrant community of contributors.",
+  "url": "https://carbondesignsystem.com/",
+  "source": "https://designeer.xyz/resources/carbon-icons"
+ },
+ {
+  "name": "Boxicons",
+  "category": "Icons",
+  "slug": "boxicons",
+  "tagline": "Vector icons crafted in three styles.",
+  "description": "Access 50,000+ Pro icon variations and 3,500+ free icons. High-quality SVG icons for React, Vue, Figma & more. Download in SVG, PNG, JSX formats. Perfect for web & mobile apps.",
+  "url": "https://boxicons.com/",
+  "source": "https://designeer.xyz/resources/boxicons"
+ },
+ {
+  "name": "Eldora UI",
+  "category": "Components",
+  "slug": "eldora-ui",
+  "tagline": "Animated components tailored for web landings.",
+  "description": "Animated React and Tailwind components, blocks and templates for landing pages, installable from its shadcn/ui-compatible registry. Currently in beta.",
+  "url": "https://eldoraui.site/",
+  "source": "https://designeer.xyz/resources/eldora-ui"
+ },
+ {
+  "name": "MX Icons",
+  "category": "Icons",
+  "slug": "mx-icons",
+  "tagline": "Large collection of customizable React icons.",
+  "description": "Free open-source React icon library with 5,600+ beautiful icons. Tree-shakable, customizable, and easy to use. Perfect for your React projects.",
+  "url": "https://mx-icons.vercel.app/",
+  "source": "https://designeer.xyz/resources/mx-icons"
+ },
+ {
+  "name": "Velora UI",
+  "category": "Components",
+  "slug": "velora-ui",
+  "tagline": "Free Tailwind CSS components and sections.",
+  "description": "A free, MIT-licensed library of animated shadcn/ui components and complete landing page templates. Built with Next.js 16, Tailwind CSS 4 and Motion — accessible, reduced-motion friendly and light — most components weigh under 3 KB.",
+  "url": "https://velora.colorlib.com/",
+  "source": "https://designeer.xyz/resources/velora-ui"
+ },
+ {
+  "name": "Eva Icons",
+  "category": "Icons",
+  "slug": "eva-icons",
+  "tagline": "Pack of 400 icons in outline and fill.",
+  "description": "Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.",
+  "url": "https://akveo.github.io/eva-icons/",
+  "source": "https://designeer.xyz/resources/eva-icons"
+ },
+ {
+  "name": "Watermelon UI",
+  "category": "Components",
+  "slug": "watermelon-ui",
+  "tagline": "React component library for shadcn ecosystem.",
+  "description": "Watermelon is a design ecosystem helping startups design, launch, and scale digital products faster. Studio, UI, Native, Showcase, and AI — all in one platform.",
+  "url": "https://watermelon.sh/",
+  "source": "https://designeer.xyz/resources/watermelon-ui"
+ },
+ {
+  "name": "Devicon",
+  "category": "Icons",
+  "slug": "devicon",
+  "tagline": "Developer-focused icon set for programming tools.",
+  "description": "Devicon aims to gather all logos representing development languages and tools in one font. 🚀",
+  "url": "https://devicon.dev/",
+  "source": "https://designeer.xyz/resources/devicon"
+ },
+ {
+  "name": "Beautiful UI",
+  "category": "Components",
+  "slug": "beautiful-ui",
+  "tagline": "Polished copy-paste components for web applications.",
+  "description": "A small library of extremely crafted, copy-paste components for chat agents, thinking states, human-in-the-loop approvals, and everything agents need to talk to humans beautifully.",
+  "url": "https://beautifului.dev/",
+  "source": "https://designeer.xyz/resources/beautiful-ui"
+ },
+ {
+  "name": "css.gg",
+  "category": "Icons",
+  "slug": "css-gg",
+  "tagline": "700 lightweight icons rendered using pure CSS.",
+  "description": "A comprehensive, open-source CSS icons library. Featuring Vanilla CSS, SVG and Figma UI icons",
+  "url": "https://css.gg/",
+  "source": "https://designeer.xyz/resources/css-gg"
+ },
+ {
+  "name": "HextaUI",
+  "category": "Components",
+  "slug": "hexter-ui",
+  "tagline": "Practical shadcn/ui blocks built for AI products.",
+  "description": "HextaUI is practical shadcn/ui blocks built for AI products, with streaming, tool calls and every other hard state handled, on a free, open-source React component library.",
+  "url": "https://hextaui.com/",
+  "source": "https://designeer.xyz/resources/hexter-ui"
+ },
+ {
+  "name": "Lightswind",
+  "category": "Components",
+  "slug": "lightswind",
+  "tagline": "Tailwind components featuring lighting and glows.",
+  "description": "Accelerate your workflow with Lightswind UI. A library of 290+ high-performance, accessible, and beautifully animated React components and 403+ UI blocks crafted for Modern Developers.",
+  "url": "https://lightswind.com/",
+  "source": "https://designeer.xyz/resources/lightswind"
+ },
+ {
+  "name": "HugeIcons",
+  "category": "Icons",
+  "slug": "hugeicons",
+  "tagline": "Comprehensive library of stroke and solid icons.",
+  "description": "Explore the world's most complete icon library: 60,000+ icons, 10 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.",
+  "url": "https://hugeicons.com/",
+  "source": "https://designeer.xyz/resources/hugeicons"
+ },
+ {
+  "name": "Reverse UI",
+  "category": "Components",
+  "slug": "reverse-ui",
+  "tagline": "Tailwind and React component library.",
+  "description": "Supercharge your web apps with Reverse UI - a premium collection of 50+ customizable, ready-to-use animated UI components. Easy to integrate & fully styled.",
+  "url": "https://reverseui.com/",
+  "source": "https://designeer.xyz/resources/reverse-ui"
+ },
+ {
+  "name": "Reicon",
+  "category": "Icons",
+  "slug": "reicon",
+  "tagline": "Tree-shakeable React icon library with dual weights.",
+  "description": "Reicon - Free open-source SVG icons. 2,700+ handcrafted icons for React, Angular, Vue, Svelte, Flutter, Figma & more.",
+  "url": "https://reicon.dev/",
+  "source": "https://designeer.xyz/resources/reicon"
+ },
+ {
+  "name": "Iconsax",
+  "category": "Icons",
+  "slug": "iconsax",
+  "tagline": "Versatile icon set with six visual styles.",
+  "description": "Iconsax - Iconsax is a collection of icons for designers and developers",
+  "url": "https://app.iconsax.io/",
+  "source": "https://designeer.xyz/resources/iconsax"
+ },
+ {
+  "name": "Smooth UI",
+  "category": "Components",
+  "slug": "smooth-ui",
+  "tagline": "Motion-heavy React components ready to copy.",
+  "description": "Beautiful animated React components with smooth Motion animations. Drop-in shadcn/ui compatible, fully customizable. 198 free components for modern UIs.",
+  "url": "https://smoothui.dev/",
+  "source": "https://designeer.xyz/resources/smooth-ui"
+ },
+ {
+  "name": "icons0",
+  "category": "Icons",
+  "slug": "icons0",
+  "tagline": "Search engine covering over 200k icons.",
+  "description": "Search 200k+ icons from 150+ open-source collections. Browse the web UI or connect the MCP server to your AI coding agent.",
+  "url": "https://icons0.dev/",
+  "source": "https://designeer.xyz/resources/icons0"
+ },
+ {
+  "name": "Tailark",
+  "category": "Components",
+  "slug": "tailark",
+  "tagline": "Tailwind sections and components for marketing.",
+  "description": "Tailark is a Shadcn UI registry of marketing blocks, pages, and illustrations for building beautiful marketing websites.",
+  "url": "https://tailark.com/",
+  "source": "https://designeer.xyz/resources/tailark"
+ },
+ {
+  "name": "Heroicons Animated",
+  "category": "Icons",
+  "slug": "heroicons-animated",
+  "tagline": "Heroicons enhanced with reactive hover animations.",
+  "description": "Free open-source library of beautifully animated icons for React. Built with Motion and Heroicons. Copy-paste ready, MIT licensed, fully customizable SVG icons with smooth animations.",
+  "url": "https://heroicons-animated.com/",
+  "source": "https://designeer.xyz/resources/heroicons-animated"
+ },
+ {
+  "name": "UI Layouts",
+  "category": "Components",
+  "slug": "ui-layouts",
+  "tagline": "Full-page layouts and heroes for Tailwind.",
+  "description": "Beautifully designed React + Next.js + TailwindCSS components. 60+ ready-to-use, accessible, and customizable UI pieces — open source and free.",
+  "url": "https://ui-layouts.com/",
+  "source": "https://designeer.xyz/resources/ui-layouts"
+ },
+ {
+  "name": "Kokonut UI",
+  "category": "Components",
+  "slug": "kokonut-ui",
+  "tagline": "Creative interactive components for shadcn format.",
+  "description": "Collection of 100+ stunning UI components free and open source built with Next.js, React, Tailwind CSS, and Motion.",
+  "url": "https://kokonutui.com/",
+  "source": "https://designeer.xyz/resources/kokonut-ui"
+ },
+ {
+  "name": "Icons.download",
+  "category": "Icons",
+  "slug": "icons-download",
+  "tagline": "Curated icon library in sixteen aesthetic styles.",
+  "description": "275 free SVG icons in 16 styles — bold, regular, thin, solid, outline, rounded and sharp. Free for personal and commercial use. No attribution required.",
+  "url": "https://icons.download/",
+  "source": "https://designeer.xyz/resources/icons-download"
+ },
+ {
+  "name": "Lucide Animated",
+  "category": "Icons",
+  "slug": "lucide-animated",
+  "tagline": "Lucide icons enhanced with micro-animations.",
+  "description": "Free open-source library of 350+ beautifully crafted animated React icons. Built with Motion and Lucide. Copy-paste ready, MIT licensed, fully customizable SVG icons with smooth animations.",
+  "url": "https://lucide-animated.com/",
+  "source": "https://designeer.xyz/resources/lucide-animated"
+ },
+ {
+  "name": "Nex UI",
+  "category": "Components",
+  "slug": "nex-ui",
+  "tagline": "Extensible component library for modern startups.",
+  "description": "A set of beautifully designed, accessible React components built with Tailwind CSS. Copy-paste into your project and own every line. Open source. Inspired by shadcn/ui.",
+  "url": "https://nexui.dev/",
+  "source": "https://designeer.xyz/resources/nex-ui"
+ },
+ {
+  "name": "Ninja UI",
+  "category": "Components",
+  "slug": "ninja-ui",
+  "tagline": "Lightweight UI components for fast websites.",
+  "description": "69 accessible, production-ready React components with 5 built-in theme presets and zero JavaScript theming overhead. Tailwind CSS v4 native, oklch colors, Radix-powered accessibility, data-slot CSS API. One CSS import - instant design system.",
+  "url": "https://ninna-ui.dev/",
+  "source": "https://designeer.xyz/resources/ninja-ui"
+ },
+ {
+  "name": "Icon Foundry",
+  "category": "Icons",
+  "slug": "icon-foundry",
+  "tagline": "Searchable collection of icons from many families.",
+  "description": "The free icon browser built for designers and developers. Search, preview, and copy any SVG icon in one click. Icons, logos, team badges, and more. No login required.",
+  "url": "https://iconfoundry.store/",
+  "source": "https://designeer.xyz/resources/icon-foundry"
+ },
+ {
+  "name": "Sera UI",
+  "category": "Components",
+  "slug": "sera-ui",
+  "tagline": "React components designed for shadcn CLI.",
+  "description": "Free, open-source UI library for React, Next.js & JSX. Styled with Tailwind CSS for fast, beautiful, customizable, animated interfaces.",
+  "url": "https://seraui.com/",
+  "source": "https://designeer.xyz/resources/sera-ui"
+ },
+ {
+  "name": "Inkword",
+  "category": "Icons",
+  "slug": "inkword",
+  "tagline": "Turns a single word into a matching illustration.",
+  "description": "Turn a word or a short phrase into a minimal editorial illustration. Explore five distinctive styles and create visuals for articles, newsletters and slides.",
+  "url": "https://inkword.app/",
+  "source": "https://designeer.xyz/resources/inkword"
+ },
+ {
+  "name": "Nucleo – The Ultimate Icon Bundle",
+  "category": "Icons",
+  "slug": "nucleo-the-ultimate-icon-bundle",
+  "tagline": "Explore the Nucleo icons, 40,000+ premium SVG icon",
+  "description": "Explore the Nucleo icons, 40000+ icons for UIs, presentations, and print projects. Download instantly or use them via our web and native apps.",
+  "url": "https://nucleoapp.com/?ref=21998",
+  "source": "https://designeer.xyz/resources/nucleo-the-ultimate-icon-bundle"
+ },
+ {
+  "name": "Re UI",
+  "category": "Components",
+  "slug": "re-ui",
+  "tagline": "Accessible UI components using Base UI.",
+  "description": "Free Shadcn UI components and pro blocks for React and Tailwind CSS, plus hand-crafted icons, templates and a hosted MCP server for coding agents.",
+  "url": "https://reui.io/",
+  "source": "https://designeer.xyz/resources/re-ui"
+ },
+ {
+  "name": "IconsDB",
+  "category": "Icons",
+  "slug": "iconsdb",
+  "tagline": "Instant, semantic search across 200K+ icons",
+  "description": "Instant, semantic search across Lucide, Heroicons, Tabler, Phosphor, Material Symbols, Font Awesome, Twemoji, Noto Emoji and 82 more open source sets. Copy as SVG, React, Vue or CSS.",
+  "url": "https://iconsdb.app",
+  "source": "https://designeer.xyz/resources/iconsdb"
+ },
+ {
+  "name": "Syntax UI",
+  "category": "Components",
+  "slug": "syntax-ui",
+  "tagline": "Animated copy-paste components for landing pages.",
+  "description": "Get free-to-use Prebuilt React components powered by Tailwind CSS & Framer Motion. Modern, Minimal and customizable. Just copy, paste and you're ready to go!",
+  "url": "https://syntaxui.com/",
+  "source": "https://designeer.xyz/resources/syntax-ui"
+ },
+ {
+  "name": "shadcn-cssinjs",
+  "category": "Components",
+  "slug": "shadcn-cssinjs",
+  "tagline": "shadcn components adapted for CSS-in-JS.",
+  "description": "A shadcn registry of components styled with StyleX (CSS-in-JS) on top of Base UI primitives. Copy, paste, and own the code.",
+  "url": "https://www.shadcn-cssinjs.com/",
+  "source": "https://designeer.xyz/resources/shadcn-cssinjs"
+ },
+ {
+  "name": "Transitions",
+  "category": "Components",
+  "slug": "transitions",
+  "tagline": "Curated CSS transition recipes and easings.",
+  "description": "Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with your coding agent via the skill.",
+  "url": "https://transitions.dev/",
+  "source": "https://designeer.xyz/resources/transitions"
+ },
+ {
+  "name": "23rd",
+  "category": "Components",
+  "slug": "23rd",
+  "tagline": "shadcn components for React and Svelte.",
+  "description": "Install 23rd components into a shadcn project with the CLI.",
+  "url": "https://23rd.dev/",
+  "source": "https://designeer.xyz/resources/23rd"
+ },
+ {
+  "name": "Oneko",
+  "category": "Components",
+  "slug": "oneko",
+  "tagline": "Pixel cat companion that chases cursor.",
+  "description": "Add a cursor-following pixel cat to your React website with Oneko. Try the playground, customize skins and sounds, and install the open-source shadcn component.",
+  "url": "https://oneko.dhrv.pw/",
+  "source": "https://designeer.xyz/resources/oneko"
+ },
+ {
+  "name": "Rolling Number",
+  "category": "Components",
+  "slug": "rolling-number",
+  "tagline": "Smooth digit-rolling number counter for React.",
+  "description": "A small, original TypeScript library for numbers in motion. Explore interruptible rolling digits, native number formatting, and a tiny React API.",
+  "url": "https://rolling.kitlangton.dev/",
+  "source": "https://designeer.xyz/resources/rolling-number"
+ },
+ {
+  "name": "Annnimate",
+  "category": "Components",
+  "slug": "annnimate",
+  "tagline": "GSAP motion components ready for production.",
+  "description": "Production GSAP motion components for React and Vue. Every component is built to the standard we ship for real brands. By Good Fella.",
+  "url": "https://annnimate.com/",
+  "source": "https://designeer.xyz/resources/annnimate"
+ },
+ {
+  "name": "GetLayers",
+  "category": "Components",
+  "slug": "getlayers",
+  "tagline": "AI prompts for cinematic page sections.",
+  "description": "Your AI builds generic — we make it cinematic. A library of web templates, 3D WebGL scenes, animated backgrounds and gradients, each copyable as one prompt.",
+  "url": "https://getlayers.ai/",
+  "source": "https://designeer.xyz/resources/getlayers"
+ },
+ {
+  "name": "Scritto",
+  "category": "Components",
+  "slug": "scritto",
+  "tagline": "Rolling character text transition component library.",
+  "description": "Scritto animates text in place: only the characters that changed move. Bindings for React, Vue, Svelte, and Solid, plus a core that runs without a framework.",
+  "url": "https://scrit.to/",
+  "source": "https://designeer.xyz/resources/scritto"
+ },
+ {
+  "name": "ogimagecn",
+  "category": "Components",
+  "slug": "ogimagecn",
+  "tagline": "Open Graph image components using Satori.",
+  "description": "A collection of beautifully designed and customizable Open Graph image components. Built on Satori. Works with shadcn/ui.",
+  "url": "https://www.ogimagecn.com/",
+  "source": "https://designeer.xyz/resources/ogimagecn"
+ },
+ {
+  "name": "Dither Kit",
+  "category": "Components",
+  "slug": "dither-kit",
+  "tagline": "Dithered chart components with retro aesthetic.",
+  "description": "Composable, dithered charts — area, bar, line, pie, radar — plus generative avatars, buttons, and gradient washes, on one tiny canvas engine. A recharts-style, children-as-config API for shadcn/ui projects.",
+  "url": "https://www.tripwire.sh/dither-kit",
+  "source": "https://designeer.xyz/resources/dither-kit"
+ },
+ {
+  "name": "shieldcn",
+  "category": "Components",
+  "slug": "shieldcn",
+  "tagline": "README badges styled with shadcn aesthetics.",
+  "description": "Beautiful GitHub README badges and charts styled as shadcn/ui, plus a free visual README builder. Generate SVG and PNG badges for npm, GitHub, GitLab, Discord, and 45+ providers, build charts and header banners, and compose a whole README in the Studio. Free and open source.",
+  "url": "https://shieldcn.dev/",
+  "source": "https://designeer.xyz/resources/shieldcn"
+ },
+ {
+  "name": "unlumen UI",
+  "category": "Components",
+  "slug": "unlumen-ui",
+  "tagline": "Minimalist React component library with CLI.",
+  "description": "A curated registry of beautifully designed React components built with TypeScript, Tailwind CSS and Motion. Install with the shadcn CLI, customize freely, and ship production-ready interfaces faster.",
+  "url": "https://ui.unlumen.com/",
+  "source": "https://designeer.xyz/resources/unlumen-ui"
+ },
+ {
+  "name": "Bearnie",
+  "category": "Components",
+  "slug": "bearnie",
+  "tagline": "Astro and Tailwind component collection.",
+  "description": "50+ accessible, open source components for Astro and Tailwind CSS — the shadcn/ui workflow, built for Astro. One CLI command copies the source into your project.",
+  "url": "https://bearnie.dev/",
+  "source": "https://designeer.xyz/resources/bearnie"
+ },
+ {
+  "name": "Fluid Functionalism",
+  "category": "Components",
+  "slug": "fluid-functionalism",
+  "tagline": "Components designed with purposeful physical animation.",
+  "description": "Open Source UI components created by @micka_design",
+  "url": "https://www.fluidfunctionalism.com/",
+  "source": "https://designeer.xyz/resources/fluid-functionalism"
+ },
+ {
+  "name": "termcn",
+  "category": "Components",
+  "slug": "termcn",
+  "tagline": "Terminal UI components for React, built on Ink and OpenTUI.",
+  "description": "A collection of beautifully designed, accessible, and customizable terminal UI components. Built on Ink and OpenTUI. Works with shadcn/ui.",
+  "url": "https://termcn.dev/",
+  "source": "https://designeer.xyz/resources/termcn"
+ },
+ {
+  "name": "framecn",
+  "category": "Components",
+  "slug": "framecn",
+  "tagline": "Video rendering components for React, built on Editframe.",
+  "description": "A collection of beautifully designed, and customizable video components. Built on Editframe. Works with shadcn/ui.",
+  "url": "https://framecn.dev/",
+  "source": "https://designeer.xyz/resources/framecn"
+ },
+ {
+  "name": "emailcn",
+  "category": "Components",
+  "slug": "emailcn",
+  "tagline": "Responsive email components for React Email, MJML, and JSX Email.",
+  "description": "A collection of beautifully designed, accessible, and customizable email components for React Email, MJML React, and JSX Email. Works with shadcn/ui.",
+  "url": "https://emailcn.run/",
+  "source": "https://designeer.xyz/resources/emailcn"
+ },
+ {
+  "name": "startercn",
+  "category": "Components",
+  "slug": "startercn",
+  "tagline": "shadcn/ui registry template with docs, landing page, and agent support.",
+  "description": "A starter kit for building and publishing your own shadcn registry components.",
+  "url": "https://startercn.vercel.app/",
+  "source": "https://designeer.xyz/resources/startercn"
+ },
+ {
+  "name": "pdfcn",
+  "category": "Components",
+  "slug": "pdfcn",
+  "tagline": "PDF components for React, built on Takumi and Forme.",
+  "description": "A collection of beautifully designed, accessible, and customizable PDF components. Built on Takumi and Forme. Works with shadcn/ui.",
+  "url": "https://pdfcn.dev/",
+  "source": "https://designeer.xyz/resources/pdfcn"
+ },
+ {
+  "name": "editorcn",
+  "category": "Components",
+  "slug": "editorcn",
+  "tagline": "Rich text editor components for React, built on Tiptap.",
+  "description": "A collection of beautifully designed, accessible, and customizable rich text editor components. Built on Tiptap. Works with shadcn/ui.",
+  "url": "https://www.rtecn.space/",
+  "source": "https://designeer.xyz/resources/editorcn"
+ },
+ {
+  "name": "Shadcn Labs",
+  "category": "Components",
+  "slug": "shadcn-labs",
+  "tagline": "Open-source shadcn/ui component registries and tools ecosystem.",
+  "description": "Open-source shadcn/ui component registries and tools for React — termcn, agentcn, ogimagecn, framecn, mcpcn, and more.",
+  "url": "https://www.shadcn-labs.com/",
+  "source": "https://designeer.xyz/resources/shadcn-labs"
+ },
+ {
+  "name": "Frameblox",
+  "category": "Components",
+  "slug": "frameblox",
+  "tagline": "Modular Framer sections and templates.",
+  "description": "Frameblox is the ultimate Framer UI kit, design system, and component library. Build and launch your website faster, save countless hours, and elevate your website.",
+  "url": "https://frameblox.com/",
+  "source": "https://designeer.xyz/resources/frameblox"
+ },
+ {
+  "name": "Nexvyn UI",
+  "category": "Components",
+  "slug": "nexvyn-ui",
+  "tagline": "Polished drop-in components for digital interfaces.",
+  "description": "Nexvyn UI is a polished, free React UI library for design engineers. Accessible components with smooth motion, built with TypeScript and Tailwind CSS. Install any component with the shadcn CLI.",
+  "url": "https://ui.nexvyn.dev/",
+  "source": "https://designeer.xyz/resources/nexvyn-ui"
+ },
+ {
+  "name": "Gradient Spin",
+  "category": "Components",
+  "slug": "gradient-spin",
+  "tagline": "Spinning gradient loading indicator for React.",
+  "description": "A zero-dependency React matrix loading spinner whose cells are swept by a configurable gradient wavefront.",
+  "url": "https://gradient-spin.vercel.app/",
+  "source": "https://designeer.xyz/resources/gradient-spin"
+ },
+ {
+  "name": "Libraries.dev",
+  "category": "Components",
+  "slug": "libraries-dev",
+  "tagline": "UI effects and components for agents.",
+  "description": "Home of the UI effect libraries Beam, Orb, Gooey, Metal and Image. Production-ready React effects you can install from npm.",
+  "url": "https://libraries.dev/",
+  "source": "https://designeer.xyz/resources/libraries-dev"
+ },
+ {
+  "name": "Sona UI",
+  "category": "Components",
+  "slug": "sona-ui",
+  "tagline": "Animated React components you fully own.",
+  "description": "Well-crafted animated React components. Thoughtful interactions and visual effects for apps, landing pages, and showcases, with source code you own.",
+  "url": "https://www.sonaui.com/",
+  "source": "https://designeer.xyz/resources/sona-ui"
+ },
+ {
+  "name": "Colorion Text Effects",
+  "category": "Components",
+  "slug": "colorion-text-effects",
+  "tagline": "Animated text effects ready to copy.",
+  "description": "99 free CSS text effects and text animations: glitch, neon, gradient, typewriter, 3D and more. Pure CSS, no JavaScript. Copy & paste the code.",
+  "url": "https://text-effects.colorion.co/",
+  "source": "https://designeer.xyz/resources/colorion-text-effects"
+ },
+ {
+  "name": "Dot Matrix",
+  "category": "Components",
+  "slug": "dot-matrix",
+  "tagline": "Over fifty dot-matrix loaders for shadcn.",
+  "description": "Dot Matrix is a React component library of dot matrix loaders—expressive loading primitives you install via the shadcn registry and own as local code.",
+  "url": "https://dotmatrix.zzzzshawn.cloud/",
+  "source": "https://designeer.xyz/resources/dot-matrix"
+ },
+ {
+  "name": "SRCL",
+  "category": "Components",
+  "slug": "srcl",
+  "tagline": "Retro DOS-style terminal component kit.",
+  "description": "SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.",
+  "url": "https://www.sacred.computer/",
+  "source": "https://designeer.xyz/resources/srcl"
+ },
+ {
+  "name": "Prompt Kit",
+  "category": "Components",
+  "slug": "prompt-kit",
+  "tagline": "Chat and AI interface component primitives.",
+  "description": "Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces. Built with React, shadcn/ui and Tailwind CSS.",
+  "url": "https://www.prompt-kit.com/",
+  "source": "https://designeer.xyz/resources/prompt-kit"
+ },
+ {
+  "name": "Shoogle",
+  "category": "Components",
+  "slug": "shoogle",
+  "tagline": "Search engine spanning shadcn component registries.",
+  "description": "Search shadcn UI blocks, components and templates across the shadcn registries",
+  "url": "https://shoogle.dev/",
+  "source": "https://designeer.xyz/resources/shoogle"
+ },
+ {
+  "name": "interior.dev",
+  "category": "Components",
+  "slug": "interior-dev",
+  "tagline": "Micro-interactions finely tuned for click responsiveness.",
+  "description": "Free animated React components and micro-interactions for the half-second after a click. Copy the TypeScript source. Open source, MIT licensed.",
+  "url": "https://www.interior.dev/",
+  "source": "https://designeer.xyz/resources/interior-dev"
+ },
+ {
+  "name": "soundcn",
+  "category": "Components",
+  "slug": "soundcn",
+  "tagline": "Collection of copy-paste UI sound effects.",
+  "description": "700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source.",
+  "url": "https://soundcn.xyz/",
+  "source": "https://designeer.xyz/resources/soundcn"
+ },
+ {
+  "name": "cuelume",
+  "category": "Components",
+  "slug": "cuelume",
+  "tagline": "Micro interface sounds generated with Web Audio.",
+  "description": "Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.",
+  "url": "https://cuelume.dev/",
+  "source": "https://designeer.xyz/resources/cuelume"
+ },
+ {
+  "name": "Canvas UI",
+  "category": "Components",
+  "slug": "canvas-ui",
+  "tagline": "GPU-accelerated liquid physics and canvas shaders.",
+  "description": "An open source component library of creative html-in-canvas effects for React, Solid, Preact, Vue, Svelte, and vanilla JS. Every effect ships as WebGL and WebGPU (via vgpu) builds, running over live HTML.",
+  "url": "https://canvasui.dev/",
+  "source": "https://designeer.xyz/resources/canvas-ui"
+ },
+ {
+  "name": "Odyssey UI",
+  "category": "Components",
+  "slug": "odyssey-ui",
+  "tagline": "Animated React components built on shadcn.",
+  "description": "Animated primitives and components for React and Next.js, built by Shr3kx and ctrlcat0x, with the source on GitHub.",
+  "url": "https://www.odysseyui.com/",
+  "source": "https://designeer.xyz/resources/odyssey-ui"
+ },
+ {
+  "name": "Spell UI",
+  "category": "Components",
+  "slug": "spell-ui",
+  "tagline": "High-craft interactive components for modern apps.",
+  "description": "Beautiful, sophisticated UI components designed for modern React and Tailwind CSS applications.",
+  "url": "https://spell.sh/",
+  "source": "https://designeer.xyz/resources/spell-ui"
+ },
+ {
+  "name": "Skiper UI",
+  "category": "Components",
+  "slug": "skiper-ui",
+  "tagline": "Animated UI primitives for Tailwind CSS.",
+  "description": "Skiper-UI A new in market library of un-common components for your NextJS project built on top of shadcn/ui. get access to 24+ free and 54+ premium paid components. just one shadcn cli and the component is all your available with free as well as one time payment plan",
+  "url": "https://skiper-ui.com/",
+  "source": "https://designeer.xyz/resources/skiper-ui"
+ },
+ {
+  "name": "devl",
+  "category": "Components",
+  "slug": "devl",
+  "tagline": "Minimalist experimental UI components for web.",
+  "description": "Two years of UI experiments. 159+ components built on coss-ui, all on the shadcn registry. Press 'c' on any design to copy the source.",
+  "url": "https://www.devl.dev/",
+  "source": "https://designeer.xyz/resources/devl"
+ },
+ {
+  "name": "Uiuno",
+  "category": "Components",
+  "slug": "uiuno",
+  "tagline": "AI workspace for organizing shadcn components.",
+  "description": "Human-code-first workspace for UI components. Build, collect, curate, and share shadcn/ui components and design systems. Powered by the shadcn/ui schema, AI-native by design",
+  "url": "https://uiuno.com/",
+  "source": "https://designeer.xyz/resources/uiuno"
+ },
+ {
+  "name": "Vengeance UI",
+  "category": "Components",
+  "slug": "vengeance-ui",
+  "tagline": "Animated React components with scroll interactions.",
+  "description": "Animated React components and next-generation UI interactions for modern landing pages.",
+  "url": "https://www.vengeanceui.com/",
+  "source": "https://designeer.xyz/resources/vengeance-ui"
+ },
+ {
+  "name": "sensory-ui",
+  "category": "Components",
+  "slug": "sensory-ui",
+  "tagline": "Sound design system for shadcn/ui components.",
+  "description": "Sound-enabled shadcn/ui components. Add meaningful audio feedback with a single prop - no audio files required.",
+  "url": "https://www.sensory-ui.com/",
+  "source": "https://designeer.xyz/resources/sensory-ui"
+ },
+ {
+  "name": "Amacro",
+  "category": "Components",
+  "slug": "amacro",
+  "tagline": "Drop-in page reveal animations for React.",
+  "description": "An open-source playground demonstrating fluid page transitions, view reveals, and theme toggles for modern web applications.",
+  "url": "https://amacro.vercel.app/",
+  "source": "https://designeer.xyz/resources/amacro"
+ },
+ {
+  "name": "Evil Buttons",
+  "category": "Components",
+  "slug": "evil-buttons",
+  "tagline": "Interactive and tactile button components.",
+  "description": "A shadcn/ui registry of animated buttons built With an Evil Touch. Live previews, copy-paste docs, and one-command CLI installs.",
+  "url": "https://www.evilbuttons.com/",
+  "source": "https://designeer.xyz/resources/evil-buttons"
+ },
+ {
+  "name": "Componentry",
+  "category": "Components",
+  "slug": "componentry",
+  "tagline": "Customizable React UI primitives and components.",
+  "description": "Beautiful, animated React UI components with styling and motion already handled. Built with Tailwind CSS, TypeScript, and Framer Motion.",
+  "url": "https://componentry.dev/",
+  "source": "https://designeer.xyz/resources/componentry"
+ },
+ {
+  "name": "Great UI",
+  "category": "Components",
+  "slug": "great-ui",
+  "tagline": "Copy-paste React and Tailwind CSS components.",
+  "description": "A curated collection of beautiful, copy-paste React components built with TypeScript, Tailwind CSS, and Framer Motion. Craft premium interfaces instantly.",
+  "url": "https://www.great-ui.com/",
+  "source": "https://designeer.xyz/resources/great-ui"
+ },
+ {
+  "name": "Ruru UI",
+  "category": "Components",
+  "slug": "ruru-ui",
+  "tagline": "Accessible customizable UI components for React.",
+  "description": "Ruru UI is the ultimate design system and UI library for creating seamless, beautiful, and highly customizable user interfaces for classic web applications.",
+  "url": "https://ui.ruru.build/",
+  "source": "https://designeer.xyz/resources/ruru-ui"
+ },
+ {
+  "name": "Shadcn Studio",
+  "category": "Components",
+  "slug": "shadcn-studio",
+  "tagline": "shadcn/ui components, blocks, and templates.",
+  "description": "1000+ shadcn/ui blocks, 100+ pages, 25+ templates, components, illustrations, Figma kit, theme generator, builder & MCP server. One subscription, free tier included.",
+  "url": "https://shadcnstudio.com/",
+  "source": "https://designeer.xyz/resources/shadcn-studio"
+ },
+ {
+  "name": "Animated shadcn/ui",
+  "category": "Components",
+  "slug": "animated-shadcn-ui",
+  "tagline": "Motion-powered variants of shadcn/ui components.",
+  "description": "A collection of beautiful, animated shadcn/ui components for React, powered by Motion. Copy, paste, customize, and add smooth animations to your projects.",
+  "url": "https://shadcn-animated.vercel.app/",
+  "source": "https://designeer.xyz/resources/animated-shadcn-ui"
+ },
+ {
+  "name": "Pin UI",
+  "category": "Components",
+  "slug": "pin-ui",
+  "tagline": "Distinctive copy-paste React and Tailwind components.",
+  "description": "An open-source React component library that turns visual interface ideas into production-ready, copy-and-paste components.",
+  "url": "https://www.pinui.xyz/",
+  "source": "https://designeer.xyz/resources/pin-ui"
+ },
+ {
+  "name": "loading.dev",
+  "category": "Components",
+  "slug": "loading-dev",
+  "tagline": "Lightweight library of loading indicators for React.",
+  "description": "A lightweight library full of beautiful loading indicators for React.",
+  "url": "https://loading.dev/",
+  "source": "https://designeer.xyz/resources/loading-dev"
+ },
+ {
+  "name": "UICapsule",
+  "category": "Components",
+  "slug": "uicapsule",
+  "tagline": "A curated collection of components that spark joy",
+  "description": "UICapsule is an open-source gallery of components that spark joy — live, self-contained React components you can read, copy, or install with the shadcn CLI.",
+  "url": "https://www.uicapsule.com/",
+  "source": "https://designeer.xyz/resources/uicapsule"
+ },
+ {
+  "name": "Space UI",
+  "category": "Components",
+  "slug": "space-ui",
+  "tagline": "Ship your ideas faster with better UI",
+  "description": "Turn your ideas into polished, high-converting products faster. A modern library of interactive React components, shaders, and tools designed to wow your users. Built for humans and modern AI workflows.",
+  "url": "https://www.spaceui.one",
+  "source": "https://designeer.xyz/resources/space-ui"
+ },
+ {
+  "name": "PaceUI",
+  "category": "Components",
+  "slug": "paceui",
+  "tagline": "Production-ready React UI for React Apps",
+  "description": "Animated React components for Next.js & TanStack Start. Built with Motion and shadcn. Clean code you own. Pay once, lifetime updates",
+  "url": "https://paceui.com",
+  "source": "https://designeer.xyz/resources/paceui"
+ },
+ {
+  "name": "BoardUI",
+  "category": "Components",
+  "slug": "boardui",
+  "tagline": "Build agentic products and data-rich dashboards",
+  "description": "Build agentic products and data-rich dashboards with 85 React components and blocks, 19 of them chart cards, plus 10 Pro templates, Tailwind CSS, and editable source code.",
+  "url": "https://www.boardui.com/",
+  "source": "https://designeer.xyz/resources/boardui"
+ },
+ {
+  "name": "Toolcraft",
+  "category": "Components",
+  "slug": "toolcraft",
+  "tagline": "Build custom design apps with AI.",
+  "description": "Toolcraft is an open-source starter kit and UI library for building custom design apps with AI.",
+  "url": "https://toolcraft.sh/",
+  "source": "https://designeer.xyz/resources/toolcraft"
+ },
+ {
+  "name": "Animata",
+  "category": "Components",
+  "slug": "animata",
+  "tagline": "Ship stunning UI faster with Ship stunning UI",
+  "description": "Ship stunning UI faster with Ship stunning UI faster with ready-made React components.. Browse hundreds of copy-paste React animations built with Tailwind CSS for Next.js — MIT licensed, theme-aware, and production-ready.",
+  "url": "https://animata.design",
+  "source": "https://designeer.xyz/resources/animata"
+ },
+ {
+  "name": "NoiceSS",
+  "category": "Components",
+  "slug": "noicess",
+  "tagline": "Create stunning, beautiful screenshot mockups",
+  "description": "Create stunning, beautiful screenshot mockups with NoiceSS. Add 3D perspectives, macOS frames, radiant backdrops, and export in high-resolution.",
+  "url": "https://noicess.fun",
+  "source": "https://designeer.xyz/resources/noicess"
+ },
+ {
+  "name": "Motion",
+  "category": "Motion & 3D",
+  "slug": "motion",
+  "tagline": "Production-ready animation library for React applications.",
+  "description": "Motion (prev Framer Motion) is a fast, production-grade animation library for React, JavaScript and Vue. Build smooth UI animations at a tiny footprint.",
+  "url": "https://motion.dev/",
+  "source": "https://designeer.xyz/resources/motion"
+ },
+ {
+  "name": "GSAP",
+  "category": "Motion & 3D",
+  "slug": "gsap",
+  "tagline": "Industry-standard JavaScript timeline animation engine.",
+  "description": "Supported by Webflow. Animate Anything - A wildly robust JavaScript animation library built for professionals.",
+  "url": "https://gsap.com/",
+  "source": "https://designeer.xyz/resources/gsap"
+ },
+ {
+  "name": "Rive",
+  "category": "Motion & 3D",
+  "slug": "rive",
+  "tagline": "Interactive state-machine vector animation tool.",
+  "description": "Behind Spotify Wrapped, Duolingo, and products reaching 2 billion users. Design, animate, and code in one place. Ship everywhere.",
+  "url": "https://rive.app/",
+  "source": "https://designeer.xyz/resources/rive"
+ },
+ {
+  "name": "Lottie",
+  "category": "Motion & 3D",
+  "slug": "lottie",
+  "tagline": "Lightweight JSON-based vector animation format.",
+  "description": "Effortlessly bring the smallest, free, ready-to-use motion graphics for the web, app, social, and designs. Create, edit, test, collaborate, and ship Lottie animations in no time!",
+  "url": "https://lottiefiles.com/",
+  "source": "https://designeer.xyz/resources/lottie"
+ },
+ {
+  "name": "Easing Wizard",
+  "category": "Motion & 3D",
+  "slug": "easing-wizard",
+  "tagline": "Visual generator for custom CSS springs.",
+  "description": "Generate and customize CSS easing functions with ease and magical precision using Easing Wizard 🧙",
+  "url": "https://easingwizard.com/",
+  "source": "https://designeer.xyz/resources/easing-wizard"
+ },
+ {
+  "name": "Morphrig",
+  "category": "Motion & 3D",
+  "slug": "morphrig",
+  "tagline": "Interactive manual on how icon morphing works.",
+  "description": "How icon morphing actually works, in ten parts, ending with enough to go and build it yourself.",
+  "url": "https://morphrig.dev/",
+  "source": "https://designeer.xyz/resources/morphrig"
+ },
+ {
+  "name": "Theatre.js",
+  "category": "Motion & 3D",
+  "slug": "theatre-js",
+  "tagline": "Visual motion design sequencer for DOM.",
+  "description": "Theatre.js is an animation editor with a visual interface.",
+  "url": "https://www.theatrejs.com/",
+  "source": "https://designeer.xyz/resources/theatre-js"
+ },
+ {
+  "name": "morphicons",
+  "category": "Motion & 3D",
+  "slug": "morphicons",
+  "tagline": "Spring-physics icon morphing animation library.",
+  "description": "Morph any SVG icon into any other with spring physics. Animate Lucide, Tabler and Heroicons in React, Vue, Svelte, React Native, Astro or vanilla JS. Zero dependencies, ~6 KB gzip.",
+  "url": "https://www.morphicons.com/",
+  "source": "https://designeer.xyz/resources/morphicons"
+ },
+ {
+  "name": "glimm",
+  "category": "Motion & 3D",
+  "slug": "glimm",
+  "tagline": "Shader-driven page transitions for Next.js.",
+  "description": "A single WebGL band sweeps across the screen while routes swap underneath. Sub-10kb, GPU-composited, drop-in.",
+  "url": "https://glimm.dev/",
+  "source": "https://designeer.xyz/resources/glimm"
+ },
+ {
+  "name": "Devouring Details",
+  "category": "Motion & 3D",
+  "slug": "devouring-details",
+  "tagline": "Interactive book teaching micro-interaction design.",
+  "description": "An interactive reference manual for interaction-curious designers.",
+  "url": "https://devouringdetails.com/",
+  "source": "https://designeer.xyz/resources/devouring-details"
+ },
+ {
+  "name": "textmotion",
+  "category": "Motion & 3D",
+  "slug": "textmotion",
+  "tagline": "Zero-dependency text roll animation primitive.",
+  "description": "slot-text — text that rolls into place. Dependency-free roll animation for buttons, counters and status labels. By character or whole word.",
+  "url": "https://textmotion.dev/",
+  "source": "https://designeer.xyz/resources/textmotion"
+ },
+ {
+  "name": "Bezel",
+  "category": "Motion & 3D",
+  "slug": "bezel",
+  "tagline": "Bezel is a React component library for interface",
+  "description": "Bezel is a React component library for interface work that needs motion and craft. Preview every component, then copy the source.",
+  "url": "https://bezel-ui.vercel.app",
+  "source": "https://designeer.xyz/resources/bezel"
+ },
+ {
+  "name": "Lotiqlab",
+  "category": "Motion & 3D",
+  "slug": "lotiqlab",
+  "tagline": "Free online Lottie editor and motion tool",
+  "description": "Free online Lottie editor and motion tool. Create, edit, recolor, remove watermarks, and export to GIF, MP4, PNG or dotLottie, all in your own browser.",
+  "url": "https://Lotiqlab.com",
+  "source": "https://designeer.xyz/resources/lotiqlab"
+ },
+ {
+  "name": "Kobra / React Input OTP component",
+  "category": "Components",
+  "slug": "kobra-react-input-otp-component",
+  "tagline": "A segmented one-time-code input, built on input-otp.",
+  "description": "A segmented one-time-code input, built on input-otp. Built with React and Tailwind, in light and dark, with every state designed.",
+  "url": "https://kobra.systems/components/input-otp",
+  "source": "https://designeer.xyz/resources/kobra-react-input-otp-component"
+ },
+ {
+  "name": "Cubby UI",
+  "category": "Components",
+  "slug": "cubby-ui",
+  "tagline": "A modern UI component library built with React, Tailwind CSS, and Base UI.",
+  "description": "A modern UI component library built with React, Tailwind CSS, and Base UI.",
+  "url": "https://www.cubby-ui.dev/",
+  "source": "https://designeer.xyz/resources/cubby-ui"
+ },
+ {
+  "name": "Kumo",
+  "category": "Components",
+  "slug": "kumo",
+  "tagline": "Kumo – a modern component library",
+  "description": "Kumo – a modern component library",
+  "url": "https://kumo-ui.com/",
+  "source": "https://designeer.xyz/resources/kumo"
+ },
+ {
+  "name": "Soralabs UI",
+  "category": "Components",
+  "slug": "soralabs-ui",
+  "tagline": "Preview-first layout showcases and interactive components with live demos, install commands, and full API…",
+  "description": "Preview-first layout showcases and interactive components with live demos, install commands, and full API reference.",
+  "url": "https://ui.soralabs.studio/catalog",
+  "source": "https://designeer.xyz/resources/soralabs-ui"
+ },
+ {
+  "name": "Atelier UI",
+  "category": "Components",
+  "slug": "atelier-ui",
+  "tagline": "Atelier UI is a growing collection of quality web animations and creative tools, built with React,…",
+  "description": "Atelier UI is a growing collection of quality web animations and creative tools, built with React, TypeScript, Tailwind CSS, Motion, and React Three Fiber.",
+  "url": "https://www.atelier-ui.com/en",
+  "source": "https://designeer.xyz/resources/atelier-ui"
+ },
+ {
+  "name": "macOS Icon Gallery",
+  "category": "Icons",
+  "slug": "macos-icon-gallery",
+  "tagline": "Showcasing beautiful icon designs from the macOS App Store",
+  "description": "Showcasing beautiful icon designs from the macOS App Store",
+  "url": "https://www.macosicongallery.com/",
+  "source": "https://designeer.xyz/resources/macos-icon-gallery"
+ },
+ {
+  "name": "ObsidianUI",
+  "category": "Components",
+  "slug": "obsidianui",
+  "tagline": "ObsidianUI is a React & Tailwind CSS component library featuring components, blocks, and landing page…",
+  "description": "ObsidianUI is a React & Tailwind CSS component library featuring components, blocks, and landing page templates.",
+  "url": "https://obsidianui.dev/",
+  "source": "https://designeer.xyz/resources/obsidianui"
+ },
+ {
+  "name": "Planes",
+  "category": "Components",
+  "slug": "planes",
+  "tagline": "Animated React components, a React animation library built with Motion (formerly Framer Motion) and Tailwind…",
+  "description": "Animated React components, a React animation library built with Motion (formerly Framer Motion) and Tailwind CSS v4, installed as source via the shadcn CLI.",
+  "url": "http://useplanes.com/",
+  "source": "https://designeer.xyz/resources/planes"
+ },
+ {
+  "name": "Glassy UI",
+  "category": "Components",
+  "slug": "glassy-ui",
+  "tagline": "37 free React glass components.",
+  "description": "37 free React glass components. Install Glassy UI with shadcn and own the source. React Native components for Expo, iOS and Android, too.",
+  "url": "https://glassyui.com/",
+  "source": "https://designeer.xyz/resources/glassy-ui"
+ },
+ {
+  "name": "Typefree",
+  "category": "Type & Colour",
+  "slug": "typefree",
+  "tagline": "A font explorer for free typefaces.",
+  "description": "Typefree is an explorer for free typefaces: browse and try fonts in the browser.",
+  "url": "https://typefree.org/",
+  "source": "https://designeer.xyz/resources/typefree"
+ }
+]
