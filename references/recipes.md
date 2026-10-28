@@ -21,14 +21,14 @@ Guardrails:
 ## 2. Base UI or Radix — behaviour without styling
 
 ```bash
-npm i @base-ui-components/react   # v1 RC, MUI lineage
+npm i @base-ui/react   # v1.x stable, MUI lineage (the old @base-ui-components/react is deprecated)
 # or
-npm i radix-ui                    # unified package, v1.x
+npm i radix-ui         # unified package, v1.x
 ```
 
 ```tsx
 // Base UI: one subpath per primitive
-import { Dialog } from "@base-ui-components/react/dialog";
+import { Dialog } from "@base-ui/react/dialog";
 
 // Radix: named exports from the unified package
 import { Dialog } from "radix-ui";
@@ -37,8 +37,9 @@ import { Dialog } from "radix-ui";
 Guardrails:
 
 - These ship no visual design. Build two or three shared wrappers (`<Modal>`, `<Menu>`) instead of styling primitives ad hoc.
-- Base UI is still pre-1.0; pin the version and read the changelog before upgrading.
-- Check that the primitive exists in the package before writing the import: Base UI exposes lowercase subpaths (`/dialog`, `/select`, `/combobox`).
+- `@base-ui-components/react` is renamed to `@base-ui/react`; do not install the deprecated name.
+- Pin the major version and read the changelog before upgrading.
+- Check that the primitive exists before writing the import: Base UI exposes lowercase subpaths (`/dialog`, `/select`, `/combobox`).
 
 ## 3. Motion — UI animation
 

@@ -23,6 +23,14 @@ CATEGORIES = ["Components", "Icons", "Motion & 3D", "Type & Colour"]
 # The aggregator also lists paid/promo entries that are not design resources
 # and have no category. Keep this list explicit; do not infer from page text.
 SKIP_SLUGS = {"discover-useful-apps-ai-tools-websites"}
+
+# Descriptions are fed to the model later, so treat fetched text as untrusted.
+# A page that starts issuing instructions or embedding script is not written.
+SUSPICIOUS = re.compile(
+    r"ignore (all )?(previous|prior) (instructions|prompts)|system prompt|"
+    r"you are (chatgpt|an ai)|<script|javascript:",
+    re.I,
+)
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, os.pardir))
 UA = {"User-Agent": "Mozilla/5.0 (compatible; frontend-design-stack/1.0)"}
@@ -72,15 +80,23 @@ def detail(slug):
             description = block.get("description") or ""
             vendor = (block.get("about") or {}).get("url") or ""
 
+    if not re.match(r"^https?://", vendor or "", re.I):
+        vendor = ""  # refuse javascript:, data: or relative targets
+
     body = re.sub(r"<script.*?</script>", "", html, flags=re.S)
     text = re.sub(r"<[^>]+>", "|", body)
     text = re.sub(r"\|+", "|", text)
     m = re.search(r"\|([^|]*)\|([^|]*)\|(Components|Icons|Motion &amp; 3D|Type &amp; Colour)\|", text)
 
+    tagline = clean(m.group(1)) if m else ""
+    full = clean(m.group(2)) if m else clean(description)
+    if SUSPICIOUS.search(tagline + " " + full):
+        return {"slug": slug, "flagged": "suspicious_text"}
+
     return {
         "slug": slug,
-        "tagline": clean(m.group(1)) if m else "",
-        "description": clean(m.group(2)) if m else clean(description),
+        "tagline": tagline,
+        "description": full,
         "category": clean(m.group(3)) if m else "",
         "url": vendor,
     }
@@ -144,7 +160,15 @@ def main():
             print(f"  - skipping {it['name']} (not a design resource)", file=sys.stderr)
             continue
         d = details.get(slug, {})
-        if not d.get("category"):
+        if d.get("flagged"):
+            # Never overwrite vetted text with a page that looks injected.
+            if slug in existing:
+                print(f"  ! {it['name']}: {d['flagged']}, keeping cached text", file=sys.stderr)
+                d = existing[slug]
+            else:
+                print(f"  - {it['name']}: {d['flagged']}, skipping", file=sys.stderr)
+                continue
+        elif not d.get("category"):
             # A transient fetch failure should not delete an entry we already have.
             if slug in existing:
                 print(f"  ~ keeping cached {it['name']}", file=sys.stderr)
